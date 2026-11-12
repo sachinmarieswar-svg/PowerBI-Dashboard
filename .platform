@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "SDP"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "17d8bb29-ac31-4f45-9f1a-1b624bd6096f"
+  }
+}

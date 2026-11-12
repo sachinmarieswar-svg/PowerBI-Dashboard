@@ -1,0 +1,73 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 403.53811659192837,
+            "y": 45.403587443946179
+          },
+          "nodeIndex": "Inc_SR",
+          "nodeLineageTag": "2d57cf59-41b8-451a-805b-200f79d52d2d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 647.17937219730948,
+            "y": 0
+          },
+          "nodeIndex": "LastRefresh",
+          "nodeLineageTag": "ba3a6149-a684-4661-8847-94acf2ca0d2f",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 116.03139013452912,
+            "y": 31.278026905829591
+          },
+          "nodeIndex": "CR",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 815.14798206278033,
+            "y": 108.7017937219731
+          },
+          "nodeIndex": "APP Excel Classification",
+          "nodeLineageTag": "fd66b564-eecc-4b93-9806-72dff44e70d7",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 99.111111111111114,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
